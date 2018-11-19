@@ -12,8 +12,9 @@ echo $personOne->name;
 * Function কে Method বলে। 
 
 * object এর মেম্বার(property) কে call করার সময় $ দিতে হয় না।  
-        ~~~ $personOne->name;
-        ~~~
+~~~ 
+    $personOne->name;
+~~~
 
 * public/private/protected হচ্ছে Access Modifier, এগুলা declare না করলে তা by default public থাকবে।
 
